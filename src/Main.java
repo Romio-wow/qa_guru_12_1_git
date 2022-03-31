@@ -7,6 +7,6 @@ public class Main {
 
     }
     public static void another() {
-        System.out.println("QA Guru");
+        System.out.println("QA Guru AA!!!");
     }
 }
