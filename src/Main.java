@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Привет, я почти авто тестировщик");
         System.out.println("Новое сообщение");
         System.out.println("New world");
+        System.out.println("Slow Branch");
 
     }
     public static void another() {
