@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Slow Branch");
 
     }
-    public static void another() {
-        System.out.println("QA Guru");
+    public static void another()
+    {System.out.println("QA GURU");
     }
 }
