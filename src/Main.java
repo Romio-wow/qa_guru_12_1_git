@@ -5,4 +5,7 @@ public class Main {
         System.out.println("New world");
 
     }
+    public static void another() {
+        System.out.println("QA Guru");
+    }
 }
